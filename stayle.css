@@ -1,0 +1,25 @@
+.hero {
+  background-image: url(./IMAGE.png);
+  background-repeat: no-repeat;
+  height: 700px;
+  width: 1400px;
+}
+h2 {
+  position: relative;
+  top: 100px;
+}
+p {
+  position: relative;
+  top: 124px;
+}
+.section-1 {
+  flex-direction: row-reverse;
+}
+.box {
+  font-weight: 400;
+}
+.foter {
+  display: flex;
+}
+
+
